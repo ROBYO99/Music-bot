@@ -16,7 +16,7 @@ Open the configuration file located in the main folder `config.js`.
 module.exports = {
     app: {
         token: 'XXX',
-        playing: 'by Zerio ❤️',
+        playing: 'by ROBYO',
         global: true,
         guild: 'xxx',
         ExtraMessages: false,
@@ -92,7 +92,7 @@ Now in your terminal run the following commands assuming you are in the same dir
 
 and Done, your bot should be running!
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
+Realized with ❤️ by [ROBYO](https://github.com/ROBYO).
 
 Please do not withdraw the license and keep the credits on this project. 
 
@@ -101,4 +101,4 @@ To have full access to the project and to be able to withdraw the credits a smal
 ### 📝 ToDo 
 
 
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
+-  [ ] Vote to skip command https://github.com/ROBYO/Music-bot
